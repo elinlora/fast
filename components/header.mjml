@@ -1,0 +1,5 @@
+<mj-section>
+  <mj-column padding="40px 0">
+    <mj-image align="center" href="#" src="img/header-logo.png" alt="logo" width="45px" />
+  </mj-column>
+</mj-section>
