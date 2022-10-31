@@ -187,12 +187,7 @@
         <mj-column mj-class="padding">
           <mj-text>
             <!-- Transaction Number -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
               <tr>
                 <td class="transaction">
                   <p class="transaction-text">Transaction #6500500</p>
@@ -201,12 +196,7 @@
             </table>
             <!-- / Transaction Number -->
             <!-- Greeting & Symbol -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
               <tr>
                 <td class="greet-sym" align="left">
                   <p class="greeting">Hi Smiles Davis,</p>
@@ -218,12 +208,7 @@
             </table>
             <!-- / Greeting & Symbol -->
             <!-- Great News Shipping Tracking -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
               <tr>
                 <td class="greet">
                   <p class="greet-news">Great news! Your <span>Prima Coffee</span> order <span>has shipped</span> and is currently making its way to you.</p>
@@ -246,13 +231,7 @@
       <mj-section>
         <mj-column>
           <mj-text>
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              role="presentation">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" role="presentation">
               <tr>
                 <td class="spacer"></td>
               </tr>
@@ -268,13 +247,7 @@
           <mj-text>
 
             <!-- Transaction Order ID -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              style="border-bottom: 2px solid #f0f2f5;">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-bottom: 2px solid #f0f2f5;">
               <tr>
                 <td class="transaction-order-id">
                   <p class="transaction-order">Your Order</p>
@@ -285,13 +258,7 @@
             <!-- / Transaction Order ID -->
 
             <!-- Book -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              style="border-bottom: 2px solid #f0f2f5;">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-bottom: 2px solid #f0f2f5;">
               <tr>
                 <td width="15%">
                   <img class="book-img" src="img/book.png" alt="book" width="65px">
@@ -308,13 +275,7 @@
             <!-- / Book -->
 
             <!-- Receipt Top -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              style="border-bottom: 2px solid #f0f2f5;">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-bottom: 2px solid #f0f2f5;">
               <tr>
                 <td style="padding-top: 2em;" width="50%">
                   <p class="subtotal-title">Subtotal</p>
@@ -333,13 +294,7 @@
             <!-- / Receipt Top -->
 
             <!-- Receipt Bottom -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              role="presentation">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" role="presentation">
               <tr>
                 <td style="padding-top: 2em;" width="50%" align="left">
                   <p class="amex">amex 6500</p>
@@ -356,13 +311,7 @@
             <!-- / Receipt Bottom -->
 
             <!-- Questions -->
-            <table
-              width="100%"
-              cellspacing="0"
-              cellpadding="0"
-              border="0"
-              align="center"
-              role="presentation">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" role="presentation">
               <tr>
                 <td style="padding-top: 2em;" align="center">
                   <p class="questions">Questions about your order? Please contact <span class="bold">Prima Coffee</span> or visit <a class="link" href="#">https://prima-coffee.com</a></p>
